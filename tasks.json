@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Back-end II reading",
+    "description": "read about Node.js transactions.",
+    "status": "Completed"
+  },
+  {
+    "title": "Exercise",
+    "description": "Leg day of the week for 30 mins",
+    "status": "Not completed"
+  }
+]
